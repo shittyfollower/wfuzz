@@ -36,6 +36,7 @@ admin
 _admin
 admin_
 Admin
+adminer
 administrat
 administration
 Administration
